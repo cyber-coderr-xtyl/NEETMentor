@@ -1,0 +1,6 @@
+{
+  "name": "Varun Thakur - Academic & NEET Portfolio",
+  "description": "Interactive portfolio, academic tracker, and NEET PCB Doubt Desk of Varun Thakur, Class 11 PCB student targeting AIIMS New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

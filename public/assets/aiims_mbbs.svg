@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="100%" height="100%">
+  <defs>
+    <radialGradient id="subtleAura" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="#000000"/>
+  <rect width="1080" height="1920" fill="url(#subtleAura)"/>
+  
+  <g transform="translate(540, 960)" text-anchor="middle">
+    <!-- Main AIIMS Typography -->
+    <text 
+      y="-10" 
+      fill="#ffffff" 
+      font-family="-apple-system, BlinkMacSystemFont, 'Space Grotesk', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+      font-size="110" 
+      font-weight="800" 
+      letter-spacing="4"
+    >AIIMS</text>
+    
+    <!-- M.B.B.S Typography in Gold Yellow -->
+    <text 
+      y="65" 
+      fill="#FDE047" 
+      font-family="-apple-system, BlinkMacSystemFont, 'JetBrains Mono', 'Space Grotesk', 'Segoe UI', monospace" 
+      font-size="34" 
+      font-weight="700" 
+      letter-spacing="7"
+    >M.B.B.S</text>
+  </g>
+</svg>
